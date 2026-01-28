@@ -29,6 +29,9 @@ dist-ssr
 *.sqlite3
 prompts/
 .agent/
+!.agent/rules/
+!.agent/workflows/
+!.agent/skills/
 dist/
 migration_temp.db
 venv/
