@@ -28,11 +28,14 @@ dist-ssr
 *.db
 *.sqlite3
 prompts/
+.agent/
+dist/
+migration_temp.db
+venv/
 __pycache__/
 *.pyc
 .venv/
 env/
-venv/
 .pytest_cache/
 .coverage
 htmlcov/
